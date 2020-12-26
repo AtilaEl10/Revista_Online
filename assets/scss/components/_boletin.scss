@@ -1,0 +1,17 @@
+.boletin {
+    text-align: center;
+    background-color: $platinum;
+    padding: 17px;
+    &__title {
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+    &__input, &__input {
+        display: inline-block;
+    }
+    &__input {
+        width: 140px;
+        border: 0;
+        height: 28px;
+    }
+}
